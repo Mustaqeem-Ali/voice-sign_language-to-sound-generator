@@ -1,0 +1,4 @@
+backend-nodejs/node_modules
+frontend-react/node_modules
+.env
+.dist
